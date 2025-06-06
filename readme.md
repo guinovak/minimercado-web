@@ -23,7 +23,7 @@ Criar um site básico para um minimercado, com visualização de produtos (em 3 
 - Código-fonte (GitHub): [https://github.com/seu-usuario/minimercado-web](https://github.com/seu-usuario/minimercado-web)  
 - Site online (GitHub Pages): [https://seu-usuario.github.io/minimercado-web](https://seu-usuario.github.io/minimercado-web)
 
-
+# Autoria
 - Nome: Guilherme da Silva Novais Dias
 - Curso: Análise e Desenvolvimento de Sistemas
 - Disciplina: Fundamentos de Sistemas Web
