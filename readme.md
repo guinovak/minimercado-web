@@ -21,7 +21,7 @@ Criar um site básico para um minimercado, com visualização de produtos (em 3 
 # Links
 
 - Código-fonte (GitHub): [https://github.com/seu-usuario/minimercado-web](https://github.com/seu-usuario/minimercado-web)  
-- Site online (GitHub Pages): [https://seu-usuario.github.io/minimercado-web](https://seu-usuario.github.io/minimercado-web)
+- Site online (GitHub Pages): https://guinovak.github.io/minimercado-web/
 
 # Autoria
 - Nome: Guilherme da Silva Novais Dias
